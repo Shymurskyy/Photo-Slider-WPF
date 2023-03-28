@@ -1,0 +1,29 @@
+C:\Users\DominatorMK\Desktop\PAZIG\Nowy folder\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\DominatorMK\Desktop\PAZIG\Nowy folder\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\DominatorMK\Desktop\PAZIG\Nowy folder\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\DominatorMK\Desktop\PAZIG\Nowy folder\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\DominatorMK\Desktop\PAZIG\Nowy folder\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\DominatorMK\Desktop\PAZIG\Nowy folder\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\DominatorMK\Desktop\PAZIG\Nowy folder\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\DominatorMK\Desktop\PAZIG\Nowy folder\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\DominatorMK\Desktop\PAZIG\Nowy folder\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Wiktor\Documents\STUDIA_komp\SEMESTR5\pazig\WinForms lub WPF\empty-GUI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Wiktor\Documents\STUDIA_komp\SEMESTR5\pazig\WinForms lub WPF\empty-GUI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Wiktor\Documents\STUDIA_komp\SEMESTR5\pazig\WinForms lub WPF\empty-GUI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Wiktor\Documents\STUDIA_komp\SEMESTR5\pazig\WinForms lub WPF\empty-GUI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Wiktor\Documents\STUDIA_komp\SEMESTR5\pazig\WinForms lub WPF\empty-GUI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Wiktor\Documents\STUDIA_komp\SEMESTR5\pazig\WinForms lub WPF\empty-GUI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Wiktor\Documents\STUDIA_komp\SEMESTR5\pazig\WinForms lub WPF\empty-GUI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Wiktor\Documents\STUDIA_komp\SEMESTR5\pazig\WinForms lub WPF\empty-GUI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Wiktor\Documents\STUDIA_komp\SEMESTR5\pazig\WinForms lub WPF\empty-GUI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Wiktor\Documents\STUDIA_komp\SEMESTR5\pazig\WinForms lub WPF\empty-GUI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\mateu\Downloads\WinForms-Slideshow-main\WinForms-Slideshow-main\WinForms Slideshow\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\mateu\Downloads\WinForms-Slideshow-main\WinForms-Slideshow-main\WinForms Slideshow\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\mateu\Downloads\WinForms-Slideshow-main\WinForms-Slideshow-main\WinForms Slideshow\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\mateu\Downloads\WinForms-Slideshow-main\WinForms-Slideshow-main\WinForms Slideshow\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\mateu\Downloads\WinForms-Slideshow-main\WinForms-Slideshow-main\WinForms Slideshow\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\mateu\Downloads\WinForms-Slideshow-main\WinForms-Slideshow-main\WinForms Slideshow\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\mateu\Downloads\WinForms-Slideshow-main\WinForms-Slideshow-main\WinForms Slideshow\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\mateu\Downloads\WinForms-Slideshow-main\WinForms-Slideshow-main\WinForms Slideshow\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Downloads\WinForms-Slideshow-main\WinForms-Slideshow-main\WinForms Slideshow\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\mateu\Downloads\WinForms-Slideshow-main\WinForms-Slideshow-main\WinForms Slideshow\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
